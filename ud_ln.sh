@@ -4,7 +4,7 @@
 #-n to set ln_cmd 
 #-g to set no git pull
 
-ra_path="${HOME}/.config/raner"
+ra_path="${HOME}/.config/ranger"
 ln_cmd='ln -i'
 
 while [ -n "$1" ]
