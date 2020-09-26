@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /usr/bin/sh
 
 #update file from github and make hard link to your config directory
 #-n to set ln_cmd 
